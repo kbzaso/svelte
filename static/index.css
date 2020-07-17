@@ -466,7 +466,8 @@ code {
 
 img,
 svg,
-canvas {
+canvas,
+iframe {
   display: block;
   vertical-align: middle;
 }
