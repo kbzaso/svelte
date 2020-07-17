@@ -32,6 +32,7 @@
 </svelte:head>
 
 <h1>{status}</h1>
+<h1>Cagoski 🥔</h1>
 
 <p>{error.message}</p>
 
