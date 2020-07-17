@@ -24,6 +24,7 @@
   <div class="w-full block flex-grow lg:flex lg:items-center lg:w-auto">
     <div class="{!expand && 'hidden'} lg:block text-sm lg:flex-grow">
       <NavLink text="About" href="about" {segment} />
+      <NavLink text="Perfil" href="profile" {segment} />
       <NavLink text="Blog" href="blog" {segment} rel="prefetch" />
     </div>
   </div>
